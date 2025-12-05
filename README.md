@@ -13,8 +13,8 @@ npm or yarn
 🛠️ Installation
 1. Clone the repository
 bash
-git clone https://github.com/yourusername/project-name.git
-cd BACKEND_STARTER_REPO
+git clone https://github.com/oponefrank44/hmcts-task-backend.git
+2. cd BACKEND_STARTER_REPO
 2. npm install
 Create a .env file in the backend directory:
 
@@ -55,6 +55,7 @@ DB_USER  user name,
 DB_HOST connection string http://localhost:3000/addtask,
 DB_NAME Database,
 DB_PASSWORD Database password,
+
 
 
 
